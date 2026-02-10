@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Resonix Society Wins Outstanding Student Organization Award",
+    "excerpt": "Our society has been recognized for exceptional contributions to student development and technical innovation by the university administration.",
+    "content": "Resonix Society has been honored with the Outstanding Student Organization Award for 2024, recognizing our commitment to excellence in student engagement, technical education, and community service. The award ceremony took place at the annual Student Excellence Gala, where President Alexander Mitchell accepted the award on behalf of all members.\n\nThis recognition highlights our successful initiatives including the IoT Workshop Series, Industry Partnership Program, and our mentorship network that has helped over 200 students develop their technical skills. The award comes with a $5,000 grant that will be used to expand our laboratory facilities and purchase new equipment for student projects.\n\nWe are grateful for the support of our faculty advisors, industry partners, and dedicated student members who make these achievements possible.",
+    "date": "2025-01-20",
+    "type": "achievement",
+    "status": "published",
+    "author": "Communications Team"
+  },
+  {
+    "id": 2,
+    "title": "New Partnership with Texas Instruments Announced",
+    "excerpt": "Exciting new collaboration will provide students with access to cutting-edge semiconductor technology and internship opportunities.",
+    "content": "Resonix Society is thrilled to announce a strategic partnership with Texas Instruments (TI) that will significantly enhance our educational programs and provide valuable opportunities for our members.\n\nThis partnership includes:\n• Access to TI's latest development boards and evaluation kits\n• Quarterly technical seminars by TI engineers\n• Internship opportunities for qualified students\n• Joint research projects in areas of mutual interest\n• Sponsorship for our annual Circuit Design Competition\n\nTI's commitment to education aligns perfectly with our mission to provide hands-on learning experiences. The first joint event will be a seminar on 'Advanced Power Management Solutions' scheduled for February 15th.\n\n'We are excited to work with such a talented group of students and look forward to contributing to their educational journey,' said Dr. Sarah Johnson, TI's University Relations Manager.",
+    "date": "2025-01-18",
+    "type": "announcement",
+    "status": "published",
+    "author": "Alexander Mitchell"
+  },
+  {
+    "id": 3,
+    "title": "Spring 2025 Workshop Series Registration Now Open",
+    "excerpt": "Register now for our comprehensive spring workshop series covering IoT, machine learning, and embedded systems development.",
+    "content": "Registration is now open for our highly anticipated Spring 2025 Workshop Series! This semester, we're offering an expanded curriculum designed to meet the growing demand for practical skills in emerging technologies.\n\nWorkshop Schedule:\n\n**IoT Fundamentals** (March 5-7)\n• Arduino and ESP32 programming\n• Sensor integration and data collection\n• Cloud connectivity and dashboard development\n\n**Machine Learning for Engineers** (March 19-21)\n• Introduction to TensorFlow and PyTorch\n• Signal processing applications\n• Real-time inference on embedded systems\n\n**Advanced Embedded Systems** (April 2-4)\n• Real-time operating systems\n• Communication protocols (I2C, SPI, CAN)\n• Low-power design techniques\n\n**PCB Design Workshop** (April 16-18)\n• Schematic capture and component selection\n• Layout techniques and DRC checking\n• Manufacturing and assembly considerations\n\nEarly bird registration (before February 15th): $25 per workshop\nRegular registration: $35 per workshop\nMembers receive a 20% discount on all workshops.\n\nLimited seats available - register at resonixsociety.org/workshops",
+    "date": "2025-01-15",
+    "type": "event",
+    "status": "published",
+    "author": "Workshop Committee"
+  },
+  {
+    "id": 4,
+    "title": "Student Team Wins IEEE Regional Competition",
+    "excerpt": "Congratulations to our Smart Grid project team for winning first place at the IEEE Region 5 Student Paper Competition.",
+    "content": "We are proud to announce that our student team has won first place at the IEEE Region 5 Student Paper Competition with their innovative smart grid optimization project.\n\nThe winning team consisted of:\n• Daniel Kim (Team Lead) - VLSI Design\n• Sophia Chen - IoT Integration\n• Marcus Johnson - Signal Processing\n• Isabella Rodriguez - Power Systems\n\nTheir project, titled 'AI-Driven Microgrid Optimization for Renewable Energy Integration,' demonstrated a novel approach to managing distributed energy resources using machine learning algorithms. The solution achieved 23% improvement in energy efficiency compared to traditional grid management systems.\n\nThe team will represent Region 5 at the IEEE National Student Paper Competition in Chicago this spring, with travel expenses covered by the IEEE foundation. They also received a $2,000 cash prize and internship opportunities with participating industry sponsors.\n\n'This achievement showcases the exceptional talent and dedication of our students,' said Dr. Emily Watson, faculty advisor. 'Their work has real-world implications for sustainable energy systems.'",
+    "date": "2025-01-12",
+    "type": "achievement",
+    "status": "published",
+    "author": "Faculty Relations"
+  },
+  {
+    "id": 5,
+    "title": "New Laboratory Facilities Now Available",
+    "excerpt": "State-of-the-art laboratory spaces with modern equipment are now open for student project development and research activities.",
+    "content": "Resonix Society is excited to announce the opening of our new laboratory facilities in the Electronics Building, Room 301-303. These modern spaces are equipped with the latest tools and equipment to support student innovation and learning.\n\nNew Facilities Include:\n\n**IoT Development Lab**\n• 20 Arduino and Raspberry Pi development kits\n• Various sensors and communication modules\n• 3D printing capabilities for enclosure prototyping\n• Environmental monitoring and control systems\n\n**RF and Microwave Lab**\n• Vector network analyzers (up to 20 GHz)\n• Signal generators and spectrum analyzers\n• Anechoic chamber for antenna measurements\n• PCB fabrication and assembly station\n\n**Digital Design Lab**\n• FPGA development boards (Xilinx and Intel)\n• Logic analyzers and oscilloscopes\n• High-speed digital design workstations\n• Software licenses for major EDA tools\n\nThe laboratories are available to all Resonix Society members for approved projects. Safety training is required before access is granted. Training sessions will be held every Friday at 2:00 PM starting January 26th.\n\nTo reserve lab time or schedule training, visit our member portal or contact the Technical Committee at tech@resonixsociety.org",
+    "date": "2025-01-10",
+    "type": "announcement",
+    "status": "published",
+    "author": "Technical Committee"
+  },
+  {
+    "id": 6,
+    "title": "Industry Guest Speaker Series Kicks Off",
+    "excerpt": "Join us for monthly presentations by industry experts sharing insights on cutting-edge technology and career opportunities.",
+    "content": "We are launching our Industry Guest Speaker Series, featuring monthly presentations by leading engineers and executives from top technology companies. These sessions provide unique insights into industry trends, emerging technologies, and career development opportunities.\n\nUpcoming Speakers:\n\n**February 12th - 'The Future of 5G and Beyond'**\nDr. Michael Chang, Principal Engineer at Qualcomm\nTopics: mmWave technology, beamforming, 6G research directions\n\n**March 10th - 'AI at the Edge: Opportunities and Challenges'**\nLisa Park, Senior Director of Engineering at NVIDIA\nTopics: Edge computing, AI acceleration, autonomous systems\n\n**April 14th - 'Sustainable Electronics Design'**\nRobert Green, VP of Engineering at Fairchild Semiconductor\nTopics: Low-power design, renewable energy systems, circular economy\n\nAll sessions are held from 6:00-7:30 PM in Auditorium Hall A, followed by networking reception. Remote attendance is available via Zoom for out-of-town members.\n\nThese presentations are open to all students and faculty. Industry professionals are also welcome to attend. Registration is required due to limited seating.\n\nFor the complete schedule and registration, visit resonixsociety.org/speakers",
+    "date": "2025-01-08",
+    "type": "event",
+    "status": "published",
+    "author": "Industry Relations"
+  },
+  {
+    "id": 7,
+    "title": "Fall 2024 Project Showcase Results",
+    "excerpt": "Celebrating outstanding student projects from our fall semester showcase, featuring innovations in IoT, robotics, and signal processing.",
+    "content": "Our Fall 2024 Project Showcase was a tremendous success, featuring 24 innovative projects from our talented members. The event showcased the creativity and technical skills of our students across various ECE disciplines.\n\n**Award Winners:**\n\n**Best Overall Project:** Smart Home Automation System\nTeam: Sarah Johnson, Mike Chen, Alex Rodriguez\nA comprehensive IoT solution with voice control, mobile app, and energy monitoring.\n\n**Most Innovative:** Neural Network ECG Analysis\nTeam: Dr. Emily Watson, James Park, Lisa Zhang\nDeep learning system achieving 96% accuracy in arrhythmia detection.\n\n**Best Presentation:** Autonomous Drone Navigation\nTeam: David Lee, Amanda Foster, Kevin Wu\nComputer vision-based navigation with obstacle avoidance capabilities.\n\n**People's Choice Award:** FPGA Digital Filter Design\nTeam: Jennifer Adams, Thomas Brown\nReal-time audio processing with configurable filter parameters.\n\nThe showcase attracted over 150 attendees including students, faculty, industry representatives, and family members. Several projects received interest from potential industry sponsors and research collaborators.\n\n'The quality of projects continues to impress year after year,' said Dr. Robert Kim, faculty advisor. 'These students are solving real-world problems with creative engineering solutions.'\n\nCongratulations to all participants for their hard work and dedication!",
+    "date": "2024-12-15",
+    "type": "event",
+    "status": "published",
+    "author": "Events Committee"
+  }
+]

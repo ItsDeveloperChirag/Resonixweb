@@ -1,0 +1,254 @@
+[
+   {
+    "id": 14,
+    "name": "Kapish",
+    "role": "Executives",
+    "position": "Senior Advicer",
+    "bio": "Senior advisor @ RESONIX CSE student passionate about ai cysec and IoT",
+    "email": "sophia.chen@university.edu",
+    "skills": "Cybersecurity, computer hardware, arduino, aiml",
+    "achievements": "Hackathon Winner 2024, Published Research in IEEE IoT Journal",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/kapish-bhati-300a88248/"
+      
+    },
+    "image": "img/Kapish.jpg",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "RIYA",
+    "role": "Executives",
+     "position": "President",
+    "bio": "A prominent ECE student driven by ideas and innovation. Beyond academics, I lead Resonix, a vibrant society where individuals from diverse fields come together to create and bring projects to life.",
+    "email": "alexander.mitchell@university.edu",
+    "skills": "Embedded systems, ML, VLSI, IoT",
+    "achievements": "Ex-DRDO Intern, My research paper has been accepted by IEEE",
+    "social": {
+      "email": "presidentresonix@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/riya-3b1649276/"
+    },
+    "image": "img/Riya1.jpg",
+    "status": "active"
+  },
+ 
+  
+  {
+    "id": 3,
+    "name": "Tridev Patel",
+    "role": "Executives",
+    "position": "Mentor",
+    "bio": "Senior ECE student passionate about wireless communication, AI-driven innovation, and mentoring young minds as a proud mentor of Resonix.",
+    "email": "isabella.rodriguez@university.edu",
+    "skills": "Embedded systems,AI,ML,LLM,VLSI,IoT",
+    "achievements": "Ex-DRDO Intern",
+    "social": {
+     
+      "linkedin": "https://www.linkedin.com/in/tridev-patel-bb7158337/"
+    },
+    "image": "img/Tridev.jpg",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Shriya",
+    "role": "Executives",
+    "position": "Vice President",
+    "bio": "Passionate ECE Student and Vice President of resonix.",
+    "email": "marcus.johnson@university.edu",
+    "skills": "Python, ML",
+    "achievements": "Working with a startup and have been in the organising team of hackathons",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/shriya-bhambri-663a65337/"
+    },
+    "image": "img/shriya.jpg",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Dimple",
+    "role": "Team Head",
+    "position": "Content Head",
+    "bio": "2nd year ECE student passionate about electronics. ",
+    "email": "daniel.kim@university.edu",
+    "skills": "Python",
+    "achievements": "--",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/dimple-vashist-536ab6334/"
+      
+    },
+    "image": "img/Dimple.jpg",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Satwik",
+    "role": "Team Head",
+    "position": "Design Head",
+    "bio": "A 2nd-year ECE student and the Design Head of Resonix. With a passion for graphic design, video editing, and programming in C++ and Python, I bring creativity and technical skills together. Having also served as Tech Head for multiple events, I enjoy blending design with technology to create impactful experiences.",
+    "email": "emma.thompson@university.edu",
+    "skills": "Photoshop, After Effects, Premiere Pro, C++",
+    "achievements": "Worked as a Tech Mentor and Lead in various tech events, hackathons and MUNs and currently working as a graphic designer in a startup.",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/satwik-pruthi-49a16a307/"
+      
+    },
+    "image": "img/Satwik.webp",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "name": "Prabhnoor",
+    "role": "Team Head",
+    "position": "Social Media Head",
+    "bio": "Social Media Head at Resonix",
+    "email": "ryan.patel@university.edu",
+    "skills": "Design, content curation and audience engagement",
+    "achievements": "--",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/prabhnoor-kaur-b9b126315/"
+    },
+    "image": "img/Prabhnoor.jpg",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "Ankit Dubey",
+    "role": "Team Head",
+    "position": "Treasurer",
+    "bio": "ECE student passionate about embedded systems, IoT, and automation.",
+    "email": "olivia.davis@university.edu",
+    "skills": "C , Python, Canva, AI",
+    "achievements": "AI Certified by HP",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/ankit-dubey-61a648328/"
+    },
+    "image": "img/Ankit.jpg",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "Arjun",
+    "role": "Team Head",
+    "position": "Conveyor",
+    "bio": "Sophomore ECE student passionate about cybersecurity and cryptography. Works on secure communication systems and blockchain projects.",
+    "email": "ethan.wilson@university.edu",
+    "skills": "Cryptography, Network Security, Blockchain, C++, Python",
+    "achievements": "Cybersecurity Competition Winner, Security Research Project",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/arjun-dev-arora-472219296/"
+    },
+    "image": "img/Arjun.jpg",
+    "status": "active"
+  },
+
+  {
+    "id": 11,
+    "name": "Manya",
+    "role": "Team Head",
+    "position": "Marketing Head",
+    "bio": "Senior ECE student specializing in biomedical engineering applications. Develops medical devices and healthcare technology solutions.",
+    "email": "ava.martinez@university.edu",
+    "skills": "Biomedical Signal Processing, Medical Device Design, MATLAB, LabVIEW",
+    "achievements": "Biomedical Innovation Award, Medical Device Patent Pending",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/manya-madan-732172283/"
+    },
+    "image": "img/Manya.jpg",
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "name": "Chirag",
+    "role": "Technical Team",
+    "position": "Programming Head",
+    "bio": "Senior CSE AIML passionate machine learning student with a strong interest in AI research. I'm continuously expanding my knowledge in AI/ML through coursework, projects, and self-driven learning.",
+    "email": "ava.martinez@university.edu",
+    "skills": "Biomedical Research, AI, ML, DL, Web Development, Python, Data Analysis",
+    "achievements": "Authored and published a research paper on AI in healthcare in a reputed journal (Scopus indexed,IEEE).",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/chirag-kumar-a15155276/"
+    },
+    "image": "img/Chirag.jpg",
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "name": "Tridev Patel",
+    "role": "Technical Team",
+    "position": "Project Head",
+    "bio": "Senior ECE student passionate about wireless communication, AI-driven innovation, and mentoring young minds as a proud mentor of Resonix.",
+    "email": "isabella.rodriguez@university.edu",
+    "skills": "Embedded systems,AI,ML,LLM,VLSI,IoT",
+    "achievements": "Ex-DRDO Intern",
+    "social": {
+      
+      "linkedin": "https://www.linkedin.com/in/tridev-patel-bb7158337/"
+    },
+    "image": "img/Tridev.jpg",
+    "status": "active"
+  },
+  {
+    "id": 1,
+    "name": "S. Gurmeet Singh Bali",
+    "role": "Director",
+    "bio": "Sophomore ECE student passionate about cybersecurity and cryptography. Works on secure communication systems and blockchain projects.",
+  
+    "social": {
+      
+    },
+    "image": "img/Gurmeet.jpg",
+    "status": "active"
+  },
+  
+  {
+    "id": 16,
+    "name": "Navjyot Kaur",
+    "role": "Department Head",
+    "position": "HOD ECE Dept.",
+    "bio": "With 25 years of teaching experience as an Assistant Professor.",
+   
+   
+    "social": {
+      
+    },
+    "image": "img/Navjyot.jpg",
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "name": "Shweta Soni",
+    "role": "Department Head",
+    "position": "Faculty Coordinator",
+    "bio": "B.tech ( Electrical) ,M.tech(VLSI), Pursuing Phd(Electronics) ,Teaching Experience 18 years",
+    
+    "social": {
+      
+    },
+    "image": "img/Shweta.jpg",
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "name": "S. BPS Bhatia",
+    "role": "Department Head",
+    "position": "Tech Advisor",
+    "bio": "Sophomore ECE student passionate about cybersecurity and cryptography. Works on secure communication systems and blockchain projects.",
+    
+    "social": {
+      
+    },
+    "image": "img/BPS.jpg",
+    "status": "active"
+  }
+  
+
+]

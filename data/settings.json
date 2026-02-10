@@ -1,0 +1,75 @@
+{
+  "society_name": "Resonix Society",
+  "contact_email": "info@resonixsociety.org",
+  "contact_phone": "+1 (555) 123-4567",
+  "address": "Electronics & Communication Department\nUniversity Campus, Main Building\nRoom 301, ECE Block",
+  "about_description": "Empowering ECE students through innovation, learning, and collaboration. Join us in shaping the future of electronics and communication engineering.",
+  "mission_statement": "To foster creativity and innovation in electronics and communication engineering through practical projects, research, and hands-on learning experiences.",
+  "vision": "To be the premier student organization for ECE students, providing comprehensive technical education and professional development opportunities.",
+  "founded_year": "2018",
+  "facebook_url": "https://facebook.com/resonixsociety",
+  "twitter_url": "https://twitter.com/resonixsociety",
+  "instagram_url": "https://instagram.com/resonixsociety",
+  "linkedin_url": "https://linkedin.com/company/resonixsociety",
+  "youtube_url": "https://youtube.com/@resonixsociety",
+  "github_url": "https://github.com/resonixsociety",
+  "website_url": "https://resonixsociety.org",
+  "office_hours": {
+    "monday": "10:00 AM - 4:00 PM",
+    "tuesday": "10:00 AM - 4:00 PM",
+    "wednesday": "10:00 AM - 4:00 PM",
+    "thursday": "10:00 AM - 4:00 PM",
+    "friday": "10:00 AM - 4:00 PM",
+    "saturday": "10:00 AM - 2:00 PM",
+    "sunday": "Closed"
+  },
+  "laboratory_access": {
+    "monday": "9:00 AM - 6:00 PM",
+    "tuesday": "9:00 AM - 6:00 PM",
+    "wednesday": "9:00 AM - 6:00 PM",
+    "thursday": "9:00 AM - 6:00 PM",
+    "friday": "9:00 AM - 6:00 PM",
+    "saturday": "9:00 AM - 6:00 PM",
+    "sunday": "Closed"
+  },
+  "membership_fee": 0,
+  "workshop_early_bird_price": 25,
+  "workshop_regular_price": 35,
+  "member_discount_percentage": 20,
+  "google_forms": {
+    "contact": "https://docs.google.com/forms/d/e/1FAIpQLSdKjH3kF9mN2pQ1rS8tU7vW0xY9zA2bC3dE4fG5hI6jK7lM8nO/viewform",
+    "membership": "https://docs.google.com/forms/d/e/1FAIpQLSeLmN8oP9qR0sT1uV2wX3yZ4aB5cD6eF7gH8iJ9kL0mN1oP2qR/viewform",
+    "project_submission": "https://docs.google.com/forms/d/e/1FAIpQLSeOpQ2rS3tU4vW5xY6zA7bC8dE9fG0hI1jK2lM3nO4pQ5rS6tU/viewform",
+    "event_registration": "https://docs.google.com/forms/d/e/1FAIpQLSfGhI7jK8lM9nO0pQ1rS2tU3vW4xY5zA6bC7dE8fG9hI0jK1lM/viewform",
+    "newsletter": "https://docs.google.com/forms/d/e/1FAIpQLSgHiJ8kL9mN0oP1qR2sT3uV4wX5yZ6aB7cD8eF9gH0iJ1kL2mN/viewform"
+  },
+  "features": {
+    "newsletter_enabled": true,
+    "event_registration_enabled": true,
+    "project_submission_enabled": true,
+    "membership_application_enabled": true,
+    "blog_enabled": true,
+    "gallery_enabled": true,
+    "team_showcase_enabled": true
+  },
+  "theme": {
+    "primary_color": "#007bff",
+    "secondary_color": "#6c757d",
+    "dark_color": "#000000",
+    "light_color": "#ffffff"
+  },
+  "seo": {
+    "meta_title": "Resonix Society - Electronics & Communication Engineering Student Organization",
+    "meta_description": "Resonix Society is a premier ECE student organization fostering innovation, learning, and collaboration in electronics and communication engineering.",
+    "meta_keywords": "ECE, Electronics, Communication Engineering, Student Organization, IoT, 5G, Embedded Systems, Signal Processing"
+  },
+  "analytics": {
+    "google_analytics_id": "",
+    "facebook_pixel_id": ""
+  },
+  "maintenance_mode": false,
+  "registration_open": true,
+  "event_capacity_default": 50,
+  "workshop_capacity_default": 30,
+  "last_updated": "2025-01-25 10:00:00"
+}

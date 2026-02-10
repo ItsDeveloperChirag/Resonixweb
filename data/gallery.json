@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "Inauguration of the Resonix",
+    "description": "The Resonix society was inaugurated with great enthusiasm and excitement, marking the beginning of a new era of innovation and creativity on campus. The event brought together students, faculty members, and industry experts to witness the launch of this dynamic community.",
+    "type": "photo",
+    "category": "events",
+    "url": "uploads/inauguration/img/1.jpg",
+    "thumbnail": "uploads/inauguration/img/1.jpg",
+    "created_at": "2024-11-15 14:30:00"
+  },
+  {
+    "id": 2,
+    "title": "Inauguration of the Resonix",
+    "description": "The Resonix society was inaugurated with great enthusiasm and excitement, marking the beginning of a new era of innovation and creativity on campus. The event brought together students, faculty members, and industry experts to witness the launch of this dynamic community.",
+    "type": "photo",
+    "category": "events",
+    "url": "uploads/inauguration/img/3.jpg",
+    "thumbnail": "uploads/inauguration/img/3.jpg",
+    "created_at": "2024-12-05 10:15:00"
+  },
+  {
+    "id": 3,
+    "title": "Inauguration of the Resonix",
+    "description": "The Resonix society was inaugurated with great enthusiasm and excitement, marking the beginning of a new era of innovation and creativity on campus. The event brought together students, faculty members, and industry experts to witness the launch of this dynamic community.",
+    "type": "photo",
+    "category": "events",
+    "url": "uploads/inauguration/img/9.jpg",
+    "thumbnail": "uploads/inauguration/img/9.jpg",
+    "created_at": "2024-10-20 16:45:00"
+  },
+  {
+    "id": 4,
+    "title": "Technology Seminar Presentation",
+    "description": "Guest speaker from industry presenting on 5G technology and future wireless communications.",
+    "type": "",
+    "category": "events",
+    "url": "https://pixabay.com/get/g7812751b6115ed85ef3ead3ee8027efb5d47c8d3b47feedc7768d0c1a3a731c302036b3fc697b16cc58115cf9e2fb8163b8137650eb339150f7dcc9c7db8d176_1280.jpg",
+    "thumbnail": "https://pixabay.com/get/g7812751b6115ed85ef3ead3ee8027efb5d47c8d3b47feedc7768d0c1a3a731c302036b3fc697b16cc58115cf9e2fb8163b8137650eb339150f7dcc9c7db8d176_640.jpg",
+    "created_at": "2024-09-18 13:20:00"
+  },
+  {
+    "id": 5,
+    "title": "Engineering Workshop Session",
+    "description": "Hands-on workshop covering digital signal processing and MATLAB programming techniques.",
+    "type": "",
+    "category": "workshops",
+    "url": "https://pixabay.com/get/g415e9146d7e0c1951ea93ad7dd390604a8b7ca28b737d36a8b16d5a19fa68824a7eeee8ba8f393e0da0f61094d44db94750cb6226b15d13ab613d4439d258d30_1280.jpg",
+    "thumbnail": "https://pixabay.com/get/g415e9146d7e0c1951ea93ad7dd390604a8b7ca28b737d36a8b16d5a19fa68824a7eeee8ba8f393e0da0f61094d44db94750cb6226b15d13ab613d4439d258d30_640.jpg",
+    "created_at": "2024-11-08 09:30:00"
+  },
+  {
+    "id": 6,
+    "title": "Students Working on Project",
+    "description": "Dedicated students collaborating on innovative engineering solutions during study session.",
+    "type": "",
+    "category": "projects",
+    "url": "https://pixabay.com/get/ge45144fb45c928d802acf5a749e63c9125692f176aac259983e0554cf0dcd2f0f45aa3c4521616d6db68ad9c50c46ea8cac56145952d03d624605ba1ccdb9c5d_1280.jpg",
+    "thumbnail": "https://pixabay.com/get/ge45144fb45c928d802acf5a749e63c9125692f176aac259983e0554cf0dcd2f0f45aa3c4521616d6db68ad9c50c46ea8cac56145952d03d624605ba1ccdb9c5d_640.jpg",
+    "created_at": "2024-12-12 14:15:00"
+  },
+  {
+    "id": 7,
+    "title": "Circuit Design Competition",
+    "description": "Annual circuit design competition showcasing creative analog and digital solutions.",
+    "type": "",
+    "category": "events",
+    "url": "https://pixabay.com/get/g642a24b94e3b63ed0d5685fa66a322d8b65db0a21e4e69641ba7e422b58f85edb86e1dbb0266b1e2b00f1253bec7d62854b008804d8e42de8bf55287f36f6b83_1280.jpg",
+    "thumbnail": "https://pixabay.com/get/g642a24b94e3b63ed0d5685fa66a322d8b65db0a21e4e69641ba7e422b58f85edb86e1dbb0266b1e2b00f1253bec7d62854b008804d8e42de8bf55287f36f6b83_640.jpg",
+    "created_at": "2024-11-10 11:00:00"
+  },
+  {
+    "id": 8,
+    "title": "Award Ceremony Recognition",
+    "description": "Society members receiving outstanding student organization award at university ceremony.",
+    "type": "",
+    "category": "awards",
+    "url": "https://pixabay.com/get/g51233f4997a5301969babef6574b99ed6e46df8d7177cd07b576d83e3088c7b30572cf23138a07e161e72455c65615ed8103e483c0901f18f4a2356997a856e4_1280.jpg",
+    "thumbnail": "https://pixabay.com/get/g51233f4997a5301969babef6574b99ed6e46df8d7177cd07b576d83e3088c7b30572cf23138a07e161e72455c65615ed8103e483c0901f18f4a2356997a856e4_640.jpg",
+    "created_at": "2024-12-20 16:30:00"
+  },
+  {
+    "id": 9,
+    "title": "Engineering Lab Session",
+    "description": "Advanced microcontroller programming workshop with hands-on FPGA development.",
+    "type": "",
+    "category": "workshops",
+    "url": "https://pixabay.com/get/g10c6880101e1739767e69766f9e86f3068807a2da4e29b029a2a0336ffd7f17ca8edd8faa446f80289054eeba43ac3816f9df7e9e5a463e49a9034f39af21963_1280.jpg",
+    "thumbnail": "https://pixabay.com/get/g10c6880101e1739767e69766f9e86f3068807a2da4e29b029a2a0336ffd7f17ca8edd8faa446f80289054eeba43ac3816f9df7e9e5a463e49a9034f39af21963_640.jpg",
+    "created_at": "2024-10-15 13:45:00"
+  },
+  {
+    "id": 10,
+    "title": "Orientation of the Batch 2025-2029",
+    "description": "The Resonix society was inaugurated with great enthusiasm and excitement, marking the beginning of a new era of innovation and creativity on campus. The event brought together students, faculty members, and industry experts to witness the launch of this dynamic community.",
+    "type": "video",
+    "category": "events",
+    "url": "uploads/inauguration/video/orientation.mp4",
+    "embed_url": "uploads/inauguration/video/orientation.mp4",
+    "thumbnail": "uploads/inauguration/img/5.jpg",
+    "duration": "08:45",
+    "created_at": "2024-12-15 15:20:00"
+  },
+  {
+    "id": 11,
+    "title": "5G Technology Workshop",
+    "description": "Recording of comprehensive workshop on 5G wireless technology and implementation.",
+    "type": "",
+    "category": "workshops",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "embed_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://pixabay.com/get/gf9778fe39ed667b13afa9c5522273c06576692aa1a6c59d29658019579e521e997308ca3b1cdd4e706e08937cb928098478e381e2974324f8215d4f95c041a07_640.jpg",
+    "duration": "45:30",
+    "created_at": "2024-10-05 14:00:00"
+  },
+  {
+    "id": 12,
+    "title": "Smart Home Demo Video",
+    "description": "Demonstration of IoT-based smart home automation system with voice control features.",
+    "type": "",
+    "category": "projects",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "embed_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://pixabay.com/get/g12c2d8b16af5a11a642845bd3e2398404dfe37610e2556f430cd6d800d4799d89c01732c2bd6ad1863808d200337f394e92986f9d797375c32a2b21645e956fb_640.jpg",
+    "duration": "12:15",
+    "created_at": "2024-11-15 10:00:00"
+  },
+  {
+    "id": 13,
+    "title": "Team Collaboration Session",
+    "description": "Behind-the-scenes look at how our team collaborates on complex engineering projects.",
+    "type": "",
+    "category": "team",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "embed_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://pixabay.com/get/g4a9a0fc8311de1bd3e6a9478e28bcb3c9ae97bad0dd01fad71c477e513cc9bb3a58a1ec766afedf94d2d8262dc5adaea21e1ee3b1e1faf08abce903ef6382d89_640.jpg",
+    "duration": "06:22",
+    "created_at": "2024-09-25 11:30:00"
+  }
+]
